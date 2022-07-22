@@ -30,4 +30,6 @@ WebUI.back()
 'langkah 3 jere'
 WebUI.check(findTestObject(null))
 
+'langkah 4 fendy\r\n'
+WebUI.acceptAlert()
 

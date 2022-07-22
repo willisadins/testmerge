@@ -4,4 +4,14 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'fendysatu'</initValue>
+      <name>gvfendy1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'fendydua'</initValue>
+      <name>gvfendy2</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
