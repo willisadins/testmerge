@@ -21,7 +21,7 @@ WebUI.acceptAlert()
 'langkah 2 fendy'
 WebUI.acceptAlert()
 
-'langkah 3 jere'
+'langkah 3 fendy'
 WebUI.authenticate('', '', '', 0)
 
 'langkah 2 jere'
