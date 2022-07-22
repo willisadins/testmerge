@@ -18,6 +18,10 @@ import internal.GlobalVariable as GlobalVariable
 'langkah 1 fendy'
 WebUI.acceptAlert()
 
+'langkah 2 fendy'
+WebUI.acceptAlert()
+
 'langkah 2 jere'
 WebUI.back()
+
 
