@@ -24,4 +24,6 @@ WebUI.acceptAlert()
 'langkah 2 jere'
 WebUI.back()
 
+'langkah 3 jere'
+WebUI.check(findTestObject(null))
 
