@@ -6,7 +6,17 @@
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
+<<<<<<< HEAD
       <initValue>'jeremysatu\r\n'</initValue>
       <name>gvjere2</name>
+=======
+      <initValue>'fendysatu'</initValue>
+      <name>gvfendy1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'fendydua'</initValue>
+      <name>gvfendy2</name>
+>>>>>>> branch 'master' of https://github.com/willisadins/testmerge
    </GlobalVariableEntity>
 </GlobalVariableEntities>
